@@ -23,3 +23,19 @@
     object-fit: contain;
 }
 
+.team-box .team-box-content {
+    margin: 10px 0;
+}
+
+.team-box .team-box-content .title {
+    color: #313435;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.team-box .team-box-content .post {
+    color: #6F808A;
+    font-size: 18px;
+}
+
