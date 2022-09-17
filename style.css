@@ -54,4 +54,9 @@
     transform: translateY(0);
 }
 
+.team-box .icons li {
+    display: inline-block;
+    margin: 20px 10px;
+}
+
 
