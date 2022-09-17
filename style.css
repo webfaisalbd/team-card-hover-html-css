@@ -39,3 +39,14 @@
     font-size: 18px;
 }
 
+.team-box .icons {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: 0.2s all;
+
+}
+
+
