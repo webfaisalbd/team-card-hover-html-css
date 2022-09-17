@@ -7,3 +7,9 @@
     transition: 0.2s all;
 }
 
+.team-box:hover {
+    z-index: 1;
+    background-color: skyblue;
+    box-shadow: 0 8px 50px rgba(0,0,0,0.2);
+
+}
